@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+#level {
+	text-align: left;
+	display: flex;
+	flex-wrap: wrap;
+}
